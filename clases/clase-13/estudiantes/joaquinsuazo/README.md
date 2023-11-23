@@ -1,5 +1,10 @@
-Estoy trabajando con [faerium](https://github.com/faerium) y [msvioletasr](https://github.com/msvioletasr)
 # Proyecto Space invader con comandos de voz
+
+Integrantes: Joaquín Suazo, Violeta Silva, Fae Ávila y Kamila Mansilla
+
+Link a p5.js en Fullscreen: https://editor.p5js.org/msvioletasr/full/b1LhpxM6b
+
+Link a p5.js embed: [https://editor.p5js.org/msvioletasr/sketches/TyKuLwPm0](https://editor.p5js.org/msvioletasr/full/b1LhpxM6b)
 
 ## Introduccion
 
