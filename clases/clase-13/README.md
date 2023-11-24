@@ -84,7 +84,7 @@ En la siguiente imagen se pueden ver algunos de los comandos en el código final
 
 En el siguiente video se ve el videojuego funcionando correctamente:
 
----------------------
+https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/6c1ac7e5-6502-4132-8157-2c207545bb17
 
 Una vez hecho esto, el videojuego funcionaba correctamente y solamente quedaba ajustar algunos detalles para mejorar la experiencia del jugador.
 Algunos de estos detalles fueron:
