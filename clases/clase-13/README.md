@@ -66,6 +66,11 @@ Luego de esto, exportamos el modelo a un sitio web para poder usar el modelo.jso
 
 ![Screenshot_7](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/5b8a5885-ab65-41da-9810-5e19e0896fe4)
 
+Esta vez usamos la función preload para incorporar nuestro modelo, ya que es lo que se hizo en el tutorial:
+
+![Screenshot_10](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/d0b0c72d-9907-41b6-b992-e9e2e28ff422)
+
+
 Con el modelo ya entrenado, debíamos ahora incorporarlo al juego. Para esto, nos guiamos con el tutorial antes mencionado, en el que se muestra un código para ejecutar el comando:
 
 ![Screenshot_3](https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/c9eda465-da72-4dcf-8257-03bf81b345a2)
