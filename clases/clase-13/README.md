@@ -120,6 +120,8 @@ https://github.com/msvioletasr/audiv027-2023-2/assets/142625864/c942cca1-3177-4f
 
 En conclusión, sentimos que gracias a la experiencia adquirida del trabajo anterior no nos fue tan difícil incorporar el modelo a nuestro trabajo. 
 
-Lo más desafiante de este proyecto fue que ahora debíamos hacer que los comandos movieran la nave, en vez de solamente identificar nuestras voces. No habían muchos tutoriales sobre cómo hacer esto, pero el que encontramos fue extremadamente util.
+Lo más desafiante de este proyecto fue que ahora debíamos hacer que los comandos movieran la nave, en vez de solamente identificar nuestras voces. No habían muchos tutoriales sobre cómo hacer esto, pero el que encontramos fue extremadamente util. Tuvimos algunos problemas que solamente pudimos solucionar mediante prueba y error, ya que no había información tan específica para esos casos.
 
-Pudimos ver que hay oportunidades muy interesantes para crear todo tipo de cosas en p5 usando la inteligencia artificial, y sobretodo ahora que es muy accesible. 
+Además, siguiendo los tutoriales, logramos comprender por qué el código funciona, ya que incorporamos los distintos elementos poco a poco. Esto nos permitió hacer cambios luego a cosas específicas, como el tamaño de los elementos, el timer, colores, etc.
+
+Pudimos ver que hay oportunidades muy interesantes para crear todo tipo de cosas en p5.js usando la inteligencia artificial, sobretodo ahora que es más accesible. 
