@@ -4,7 +4,7 @@ Integrantes: Violeta Silva, Joaquín Suazo, Fae Ávila y Kamila Mansilla
 
 Link a p5.js en Fullscreen: [https://editor.p5js.org/msvioletasr/full/TyKuLwPm0](https://editor.p5js.org/msvioletasr/full/vjKT1tBln)
 
-Link a p5.js embed: <iframe src="https://editor.p5js.org/msvioletasr/full/vjKT1tBln"></iframe>
+Link a p5.js embed: https://editor.p5js.org/msvioletasr/full/vjKT1tBln
 
 # Introducción:
 
